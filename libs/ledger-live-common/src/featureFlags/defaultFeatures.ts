@@ -109,6 +109,9 @@ export const defaultFeatures: DefaultFeatures = {
   counterValue: {
     enabled: false,
   },
+  llmNewDeviceSelection: {
+    enabled: false,
+  },
   llmUsbFirmwareUpdate: {
     enabled: false,
   },
@@ -116,6 +119,9 @@ export const defaultFeatures: DefaultFeatures = {
     enabled: false,
   },
   ptxSmartRoutingMobile: {
+    enabled: false,
+  },
+  syncOnboarding: {
     enabled: false,
   },
   mockFeature: {
